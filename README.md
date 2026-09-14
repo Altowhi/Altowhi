@@ -18,6 +18,9 @@ I'm a Computer and System Science graduate (MSc, Stockholm University) currently
 - 🅿️ [Smart Parking System](#) — Real-time parking slot detection using Node.js, React.js, and Raspberry Pi
 - 📊 [Data Mining Project](#) — PCA, K-Means, DBSCAN, and Flask-based classification models
 
+## 🔁 CI/CD Practice
+- [s3](https://github.com/Altowhi/s3) & [s1-yakluster](https://github.com/Altowhi/s1-yakluster) — two iterations of the same Docker CI/CD exercise (GitHub Actions, Docker Buildx/QEMU, Docker Hub push), practiced by hand as part of my Cloud Computing coursework
+
 *(More links will be added as each project repo goes up.)*
 
 ## 📫 Connect with me
