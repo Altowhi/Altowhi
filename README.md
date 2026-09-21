@@ -5,7 +5,7 @@ I'm a Computer and System Science graduate (MSc, Stockholm University) currently
 ## 🎓 Background
 - MSc in Computer and System Science — Stockholm University
 - Cloud and Infrastructure Specialist program — EC Utbildning (Networking, Linux, Server Administration, Microsoft 365, Cloud Services, Virtualization, IT Security)
-- Currently building hands-on skills through coursework and personal projects, with a goal of moving into an entry-level IT/support role
+- Currently building hands-on skills through coursework and personal projects.
 
 ## 🛠️ Skills
 - **Programming:** Python
