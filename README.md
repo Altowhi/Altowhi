@@ -1,6 +1,6 @@
 # Hi, I'm Khalil 👋
 
-I'm a Computer and System Science graduate (MSc, Stockholm University) currently completing a Cloud and Infrastructure Specialist program, transitioning into IT/cloud support from a background in production and manufacturing.
+I'm a Computer and System Science graduate (MSc, Stockholm University) currently completing a Cloud and Infrastructure Specialist program, building hands-on skills across cloud, infrastructure, networking, systems administration, and security.
 
 ## 🎓 Background
 - MSc in Computer and System Science — Stockholm University
