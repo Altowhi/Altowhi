@@ -9,19 +9,20 @@ I'm a Computer and System Science graduate (MSc, Stockholm University) currently
 
 ## 🛠️ Skills
 - **Programming:** Python
-- **Cloud (coursework):** Docker, Kubernetes, Microsoft 365, Cloud Services
-- **System Administration (coursework):** Linux, Server Administration, Networking
-- **Security (coursework/exposure):** Nmap, OpenVAS, Metasploit, Wireshark
+- **Cloud & DevOps (coursework):** Microsoft Azure, Docker, Kubernetes, Microsoft 365, GitHub Actions
+- **System Administration (coursework):** Linux, Windows Server, Server Administration, Networking
+- **Networking:** IPv4, Subnetting, VLANs, Routing, DHCP, DNS, ACLs, Cisco Packet Tracer
+- **Security (coursework/exposure):** Nmap, OpenVAS, Metasploit, Wireshark, Microsoft Entra ID, MFA
 
-## 📌 Featured Projects
-- 📡 [MQTT Virtual Sensor](https://github.com/Altowhi/mqtt-virtual-sensor) — IoT/MQTT team project (theory, architecture design & documentation)
-- 🅿️ [Smart Parking System](#) — Real-time parking slot detection using Node.js, React.js, and Raspberry Pi
-- 📊 [Data Mining Project](#) — PCA, K-Means, DBSCAN, and Flask-based classification models
+## 📌 Selected Projects
+- ☁️ [Azure Cloud Services](https://github.com/Altowhi/azure-cloud-services) — Azure infrastructure automation, App Service, storage, disaster recovery, networking diagnostics, and Entra ID security
+- 🌐 [Networking Labs — Cisco Packet Tracer](https://github.com/Altowhi/networking-labs-cisco-packet-tracer) — IPv4, subnetting, VLANs, routing, ACLs, DHCP/DNS, firewalls, and troubleshooting
+- 🔐 [Cybersecurity Governance & Incident Response](https://github.com/Altowhi/cybersecurity-governance-incident-response) — security policy, STRIDE threat modeling, NIST-based penetration testing, and incident response
+- 📡 [MQTT Virtual Sensor](https://github.com/Altowhi/mqtt-virtual-sensor) — IoT/MQTT team project focused on theory, architecture design, and documentation
+- 📊 [Data Mining Coursework](https://github.com/Altowhi/data-mining-coursework) — preprocessing, PCA, clustering, classification, model evaluation, and Dash deployment
 
 ## 🔁 CI/CD Practice
-- [s3](https://github.com/Altowhi/s3) & [s1-yakluster](https://github.com/Altowhi/s1-yakluster) — two iterations of the same Docker CI/CD exercise (GitHub Actions, Docker Buildx/QEMU, Docker Hub push), practiced by hand as part of my Cloud Computing coursework
-
-*(More links will be added as each project repo goes up.)*
+- [s3](https://github.com/Altowhi/s3) — Docker CI/CD exercise using GitHub Actions, Docker Buildx/QEMU, and Docker Hub, practiced by hand as part of my Cloud Computing coursework
 
 ## 📫 Connect with me
 - LinkedIn: [khalil-altowhi](https://www.linkedin.com/in/khalil-altowhi-23690b2a1)
